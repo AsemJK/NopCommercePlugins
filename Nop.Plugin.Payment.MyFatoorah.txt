@@ -5,3 +5,9 @@
   "SupportedVersions": [ "4.30" ],
   "Author": "PBMS Team",
   "Description": "This payment module allows you to enable \"My Fatoorah\" option in your store"
+
+
+
+
+For more info please visit :
+https://store.smartsware.com/tamara-bnpl

@@ -14,3 +14,7 @@ And More ....
 "SupportedVersions": [ "4.30" ],
 "Author": "PBMS Team",
 "Description": "This plugin allows to integrate with MySms. A store owner can receive SMS messages when a customer places an order"
+
+
+For more info please visit :
+https://store.smartsware.com/mysms-nop-plugin
