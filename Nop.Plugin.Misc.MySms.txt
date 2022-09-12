@@ -1,0 +1,16 @@
+Plugin MySms is SMS Provider has common features to send sms for :
+Order Placed
+Order Status Changed
+New Shipment Added
+
+And More ....
+
+
+
+"Group": "Misc",
+"FriendlyName": "My SMS Provider",
+"SystemName": "Misc.MySms",
+"Version": "1.31",
+"SupportedVersions": [ "4.30" ],
+"Author": "PBMS Team",
+"Description": "This plugin allows to integrate with MySms. A store owner can receive SMS messages when a customer places an order"

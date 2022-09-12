@@ -1,6 +1,0 @@
-Plugin MySms is SMS Provider has common features to send sms for :
-Order Placed
-Order Status Changed
-New Shipment Added
-
-And More ....

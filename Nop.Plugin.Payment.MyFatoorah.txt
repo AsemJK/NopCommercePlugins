@@ -1,0 +1,7 @@
+  "Group": "Payment methods",
+  "FriendlyName": "Credit Pay",
+  "SystemName": "Payments.MyFatoorah",
+  "Version": "1.2",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "PBMS Team",
+  "Description": "This payment module allows you to enable \"My Fatoorah\" option in your store"
